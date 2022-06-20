@@ -1,0 +1,36 @@
+.odin{
+    font: Helvetica;
+    color: green;
+    font-size: 70px;
+    text-align: center;
+    font-weight:bolder ;
+    background-color: darkslategray;
+}
+
+#gredients{
+    font: "Times New Roman";
+    background-color: aqua;
+    font-size: 30px;
+}
+
+.script{
+    font: helvetica;
+    font-size: 30px;
+    background-color: bisque;
+}
+
+.crunch{
+    font: bold, "times new roman";
+    color:darksalmon;
+    background-color: darkgreen;
+}
+
+.pic{
+height: 150px;
+width: auto; 
+}
+
+#ture{
+    height: 150;
+    width: auto;
+}
